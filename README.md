@@ -1,4 +1,8 @@
-# FULL_ADDER_SUBTRACTOR
+## NAME: JAYAPRADAN M
+
+## REG NO: 24900886 
+
+##   EXPERIENMENT NO 4:# FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -36,24 +40,27 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
-**Truthtable**
+**TRUTH TABLE**
+## FULL ADDER:
+![WhatsApp Image 2024-12-26 at 11 04 14_a6018e38](https://github.com/user-attachments/assets/c8493ea4-fe91-4d51-b6c7-712922817a95)
+## FULL SUBRACTOR:
 
-**Procedure**
-
-Write the detailed procedure here
-
-**Program:**
-
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
-
-**RTL Schematic**
-
-**Output Timing Waveform**
-
-**Result:**
-
-Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+![WhatsApp Image 2024-12-26 at 11 04 14_6d7b1a39](https://github.com/user-attachments/assets/eed9687f-4ef8-4b4a-af5d-ea946121b47d)
 
 
+**PROGRAMN:**
 
+![WhatsApp Image 2024-12-26 at 11 04 14_218a27ba](https://github.com/user-attachments/assets/72a7f09d-69c8-458a-9fc1-4986e37a0cb6)
+
+
+## RTL VIEWER 
+
+![WhatsApp Image 2024-12-26 at 11 04 13_0fb9965f](https://github.com/user-attachments/assets/786a1772-d7f4-48c0-8b92-83d8abff0019)
+
+## OUTPUT TIMING WAVEFORM:
+
+![WhatsApp Image 2024-12-26 at 11 04 13_1d6e37e7](https://github.com/user-attachments/assets/d0b1b2dd-ac26-4f0d-9565-db8331842396)
+
+**RESULT:**
+
+Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified in Quartus software using verilog program.
