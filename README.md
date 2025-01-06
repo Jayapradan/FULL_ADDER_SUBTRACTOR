@@ -2,7 +2,7 @@
 
 ## REG NO: 24900886 
 
-##   EXPERIENMENT NO 4:# FULL_ADDER_SUBTRACTOR
+##   EXPERIENMENT NO 4: FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
