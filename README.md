@@ -63,4 +63,4 @@ Borrow out = A'Bin + A'B + BBin
 
 **RESULT:**
 
-Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified in Quartus software using verilog program.
+Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified in Quartus software using verilog program successfully
